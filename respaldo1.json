@@ -1,0 +1,60 @@
+{
+    "libros": [
+        {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "genero": "Ciencia ficción",
+            "disponible": false
+        },
+        {
+            "titulo": "Casa de travis scott",
+            "autor": "Travis scott",
+            "genero": "Femenino",
+            "disponible": true
+        },
+        {
+            "titulo": "Fe!n",
+            "autor": "travis scott",
+            "genero": "rap",
+            "disponible": true
+        },
+        {
+            "titulo": "Fe!n",
+            "autor": "travis scott",
+            "genero": "rap",
+            "disponible": true
+        },
+        {
+            "titulo": "AWuaDheLemon",
+            "autor": "Me",
+            "genero": "Fantasia",
+            "disponible": true
+        }
+    ],
+    "usuarios": [
+        {
+            "nombre": "Juan Pérez",
+            "correo": "juanperez@email.com",
+            "prestamos": [
+                {
+                    "titulo": "Cien años de soledad",
+                    "fecha_prestamo": "2025-03-27"
+                }
+            ]
+        },
+        {
+            "nombre": "andrea",
+            "apellido": "ander"
+        },
+        {
+            "nombre": "andrea",
+            "correo": "asdf@fas.com",
+            "prestamos": []
+        },
+        {
+            "nombre": "doom",
+            "correo": "Sin correo",
+            "prestamos": []
+        }
+    ]
+}
